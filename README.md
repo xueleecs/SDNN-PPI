@@ -1,2 +1,2 @@
 # SDNN-PPI
-code for paper "Self-attention and deep neural network PPI prediction method"
+code for paper "SNDD-PPI: Self-attention with deep neural networks effect on protein-protein interaction prediction"
